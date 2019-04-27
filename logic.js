@@ -1,1 +1,3 @@
-javascript
+(function () {
+console.log("In file");
+})();
